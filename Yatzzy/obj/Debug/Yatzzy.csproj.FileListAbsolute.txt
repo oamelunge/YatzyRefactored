@@ -1,0 +1,6 @@
+c:\users\innsa\documents\visual studio 2012\Projects\Yatzzy\Yatzzy\bin\Debug\Yatzzy.dll
+c:\users\innsa\documents\visual studio 2012\Projects\Yatzzy\Yatzzy\bin\Debug\Yatzzy.pdb
+c:\users\innsa\documents\visual studio 2012\Projects\Yatzzy\Yatzzy\bin\Debug\nunit.framework.dll
+c:\users\innsa\documents\visual studio 2012\Projects\Yatzzy\Yatzzy\bin\Debug\nunit.framework.xml
+c:\users\innsa\documents\visual studio 2012\Projects\Yatzzy\Yatzzy\obj\Debug\Yatzzy.dll
+c:\users\innsa\documents\visual studio 2012\Projects\Yatzzy\Yatzzy\obj\Debug\Yatzzy.pdb
